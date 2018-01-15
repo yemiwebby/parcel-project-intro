@@ -8,7 +8,7 @@
 ```
 ### Start parcel in built server with 
 ```bash
-npm start
+npm run start
 ```
 ### View Project
 - Navigate to http://localhost:1234
