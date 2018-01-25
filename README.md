@@ -10,5 +10,5 @@
 ```bash
 npm run start
 ```
-### View Project
+### View the Project
 - Navigate to http://localhost:1234
